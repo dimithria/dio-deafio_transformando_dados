@@ -1,4 +1,4 @@
-# dio-deafio_transformando_dados
+# dio-desafio_transformando_dados
 
 ## Alterações
 >Modificações feitas no Power Query
